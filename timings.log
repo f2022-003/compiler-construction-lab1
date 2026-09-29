@@ -1,0 +1,31 @@
+=== COMPILE sumA ===
+real	0m0.652s
+=== COMPILE fibB ===
+real	0m0.350s
+=== COMPILE primesC ===
+real	0m0.394s
+=== COMPILE sortD ===
+real	0m0.544s
+=== RUN sumA ===
+4999999950000000
+real	0m0.105s
+=== RUN fibB ===
+9227465
+real	0m0.086s
+=== RUN primesC ===
+17984
+real	0m0.027s
+=== RUN sortD ===
+real	0m0.216s
+=== PY sumA ===
+4999999950000000
+real	0m9.887s
+=== PY sortD ===
+real	0m2.457s
+=== PY fibB ===
+9227465
+real	0m1.691s
+=== PY primesC ===
+17984
+real	0m1.083s
+=== DONE ===
